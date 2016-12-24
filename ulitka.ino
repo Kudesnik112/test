@@ -11,10 +11,6 @@
 #define bcolor 551521905
 #define bprog 551525475
 
-//#define bplus 16599733
-//#define boff 16630333
-//#define bcolor 16591573
-//#define bminus 16632373
 
 // Which pin on the Arduino is connected to the NeoPixels?
 // On a Trinket or Gemma we suggest changing this to 1
