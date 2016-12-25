@@ -8,6 +8,11 @@
 #define bloop 4294967295
 #define bplus 551519865
 #define bminus 551536185
+
+
+bxcbxc
+bvcbcv
+
 #define bcolor 551521905
 #define bprog 551525475
 
